@@ -1,0 +1,24 @@
+DATA : {
+    "_parts": [
+        [
+            "carName",
+            "asdasda"
+        ],
+        [
+            "licensePlate",
+            "asdasda"
+        ],
+        [
+            "initial",
+            "sdasda"
+        ],
+        [
+            "fuel",
+            "asdasdasd"
+        ],
+        [
+            "image",
+            "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540seumpicco%252Fmy-app/ImagePicker/fc26dcb8-93c5-41e4-bc45-677252a831d2.jpeg"
+        ]
+    ]
+}

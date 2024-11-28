@@ -1,0 +1,25 @@
+{
+  "cli": {
+    "version": ">= 13.4.1",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "android": {
+      "workflow": "managed",
+      "image": "default"
+    },
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "autoIncrement": true
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

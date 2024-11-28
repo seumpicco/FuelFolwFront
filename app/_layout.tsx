@@ -32,6 +32,9 @@ export default function RootLayout() {
       <Stack>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen name="+not-found" />
+        
+        {/* <Stack.Screen name="carProfile"/> */}
+ 
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
